@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjectDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Department" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Permissions" Type="char" MaxLength="6" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Logins">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="FailedLogins" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="ProductSKU" />
+    </Key>
+    <Property Name="ProductSKU" Type="char" MaxLength="13" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Transactions">
+    <Key>
+      <PropertyRef Name="TransactionID" />
+    </Key>
+    <Property Name="TransactionID" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TransactionDate" Type="date" Nullable="false" />
+    <Property Name="Total" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="EmployeeID" Type="char" MaxLength="5" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_EmployeeID_Transactions">
+    <End Role="Employees" Type="Self.Employees" Multiplicity="1" />
+    <End Role="Transactions" Type="Self.Transactions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="EmployeeID" />
+      </Principal>
+      <Dependent Role="Transactions">
+        <PropertyRef Name="EmployeeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ProjectDBModelStoreContainer">
+    <EntitySet Name="Employees" EntityType="Self.Employees" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Logins" EntityType="Self.Logins" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Transactions" EntityType="Self.Transactions" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_EmployeeID_Transactions" Association="Self.FK_EmployeeID_Transactions">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="Transactions" EntitySet="Transactions" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4369bc61-1ec3-4abc-ba5e-13e25d4a02ac": {
+      "ProjectGuid": "4369bc61-1ec3-4abc-ba5e-13e25d4a02ac",
+      "DisplayName": "HugeIntegerAttempt2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

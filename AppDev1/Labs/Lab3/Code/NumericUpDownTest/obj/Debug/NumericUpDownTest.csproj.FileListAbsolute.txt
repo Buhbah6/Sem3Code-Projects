@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\NumericUpDownTest\bin\Debug\NumericUpDownTest.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\NumericUpDownTest\bin\Debug\NumericUpDownTest.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\NumericUpDownTest\bin\Debug\NumericUpDownTest.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\NumericUpDownTest\obj\Debug\NumericUpDownTest.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\NumericUpDownTest\obj\Debug\NumericUpDownTest.InterestCalculatorForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\NumericUpDownTest\obj\Debug\NumericUpDownTest.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\NumericUpDownTest\obj\Debug\NumericUpDownTest.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\NumericUpDownTest\obj\Debug\NumericUpDownTest.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\NumericUpDownTest\obj\Debug\NumericUpDownTest.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\NumericUpDownTest\obj\Debug\NumericUpDownTest.pdb

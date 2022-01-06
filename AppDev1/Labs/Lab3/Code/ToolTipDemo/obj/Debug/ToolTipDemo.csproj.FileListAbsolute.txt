@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\ToolTipDemo\bin\Debug\ToolTipDemo.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\ToolTipDemo\bin\Debug\ToolTipDemo.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\ToolTipDemo\bin\Debug\ToolTipDemo.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\ToolTipDemo\obj\Debug\ToolTipDemo.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\ToolTipDemo\obj\Debug\ToolTipDemo.ToolTipForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\ToolTipDemo\obj\Debug\ToolTipDemo.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\ToolTipDemo\obj\Debug\ToolTipDemo.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\ToolTipDemo\obj\Debug\ToolTipDemo.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\ToolTipDemo\obj\Debug\ToolTipDemo.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\ToolTipDemo\obj\Debug\ToolTipDemo.pdb

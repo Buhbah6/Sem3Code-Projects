@@ -1,0 +1,15 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\obj\Debug\ReadSequentialAccessFileForm.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\obj\Debug\ReadSequentialAccessFileForm.ReadSequentialAccessFileForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\obj\Debug\ReadSequentialAccessFileForm.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\obj\Debug\ReadSequentialAccessFileForm.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\obj\Debug\ReadSequentialAccessFileForm.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\bin\Debug\ReadSequentialAccessFileForm.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\bin\Debug\ReadSequentialAccessFileForm.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\bin\Debug\ReadSequentialAccessFileForm.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\bin\Debug\SequentialAccessTextFile.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\bin\Debug\SequentialAccessTextFile.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\bin\Debug\SequentialAccessTextFile.dll.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\obj\Debug\ReadSequentialAccessFileForm.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\obj\Debug\ReadSequentialAccessFileForm.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\obj\Debug\ReadSequentialAccessFileForm.csproj.CopyComplete
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q2\ReadSequentialAccessFileForm\obj\Debug\ReadSequentialAccessFileForm.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"DataStructure","l":"MyList"},{"p":"DataStructure","l":"MySet"},{"p":"DataStructure","l":"Node"},{"p":"DataStructure","l":"UsingMySet"}];updateSearchResults();

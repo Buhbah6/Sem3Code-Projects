@@ -1,0 +1,13 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\bin\Debug\ProductDB.mdf
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\bin\Debug\ProductDB_log.ldf
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\bin\Debug\Products.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\bin\Debug\Products.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\bin\Debug\Products.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\obj\Debug\Products.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\obj\Debug\Products.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\obj\Debug\Products.Form1.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\obj\Debug\Products.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\obj\Debug\Products.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\obj\Debug\Products.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Products\obj\Debug\Products.pdb

@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\Menus\obj\Debug\Menus.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\Menus\obj\Debug\Menus.MenuTestForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\Menus\obj\Debug\Menus.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\Menus\obj\Debug\Menus.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\Menus\obj\Debug\Menus.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\Menus\bin\Debug\Menus.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\Menus\bin\Debug\Menus.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\Menus\bin\Debug\Menus.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\Menus\obj\Debug\Menus.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\Menus\obj\Debug\Menus.pdb

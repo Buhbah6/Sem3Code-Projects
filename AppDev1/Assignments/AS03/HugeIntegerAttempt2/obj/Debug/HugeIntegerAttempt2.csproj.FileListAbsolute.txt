@@ -1,0 +1,28 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03 Attempt2\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03 Attempt2\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.Calculator.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03 Attempt2\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03 Attempt2\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03 Attempt2\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03 Attempt2\HugeIntegerAttempt2\bin\Debug\HugeIntegerAttempt2.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03 Attempt2\HugeIntegerAttempt2\bin\Debug\HugeIntegerAttempt2.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03 Attempt2\HugeIntegerAttempt2\bin\Debug\HugeIntegerAttempt2.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03 Attempt2\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03 Attempt2\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03 Attempt2\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\bin\Debug\HugeIntegerAttempt2.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\bin\Debug\HugeIntegerAttempt2.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\bin\Debug\HugeIntegerAttempt2.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\bin\Debug\fr-CA\HugeIntegerAttempt2.resources.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.Calculator.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.Calculator.fr-CA.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\fr-CA\HugeIntegerAttempt2.resources.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\HugeIntegerAttempt2.Calculator.en.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\bin\Debug\en\HugeIntegerAttempt2.resources.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS03\HugeIntegerAttempt2\obj\Debug\en\HugeIntegerAttempt2.resources.dll

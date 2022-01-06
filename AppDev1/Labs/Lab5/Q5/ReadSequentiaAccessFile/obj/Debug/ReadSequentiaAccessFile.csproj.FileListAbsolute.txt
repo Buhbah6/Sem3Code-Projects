@@ -1,0 +1,14 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\obj\Debug\ReadSequentiaAccessFile.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\obj\Debug\ReadSequentiaAccessFile.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\obj\Debug\ReadSequentialAccessFile.ReadSequentialAccessFileForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\obj\Debug\ReadSequentiaAccessFile.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\obj\Debug\ReadSequentiaAccessFile.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\bin\Debug\ReadSequentiaAccessFile.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\bin\Debug\ReadSequentiaAccessFile.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\bin\Debug\ReadSequentiaAccessFile.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\bin\Debug\SequentialAccessTextFile.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\bin\Debug\SequentialAccessTextFile.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\obj\Debug\ReadSequentiaAccessFile.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\obj\Debug\ReadSequentiaAccessFile.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\obj\Debug\ReadSequentiaAccessFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q5\ReadSequentiaAccessFile\obj\Debug\ReadSequentiaAccessFile.csproj.CopyComplete

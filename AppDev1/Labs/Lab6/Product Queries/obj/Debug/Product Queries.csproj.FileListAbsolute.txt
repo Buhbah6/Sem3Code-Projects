@@ -1,0 +1,13 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\bin\Debug\ProductDB.mdf
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\bin\Debug\ProductDB_log.ldf
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\bin\Debug\Product Queries.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\bin\Debug\Product Queries.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\bin\Debug\Product Queries.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\obj\Debug\Product Queries.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\obj\Debug\Product Queries.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\obj\Debug\Product_Queries.Form1.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\obj\Debug\Product_Queries.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\obj\Debug\Product Queries.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\obj\Debug\Product Queries.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\obj\Debug\Product Queries.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Queries\obj\Debug\Product Queries.pdb

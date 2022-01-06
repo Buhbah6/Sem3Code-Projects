@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\CheckedListBox\obj\Debug\CheckedListBox.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\CheckedListBox\obj\Debug\CheckedListBox.CheckedListBoxTestForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\CheckedListBox\obj\Debug\CheckedListBox.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\CheckedListBox\obj\Debug\CheckedListBox.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\CheckedListBox\obj\Debug\CheckedListBox.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\CheckedListBox\bin\Debug\CheckedListBox.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\CheckedListBox\bin\Debug\CheckedListBox.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\CheckedListBox\bin\Debug\CheckedListBox.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\CheckedListBox\obj\Debug\CheckedListBox.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\CheckedListBox\obj\Debug\CheckedListBox.pdb

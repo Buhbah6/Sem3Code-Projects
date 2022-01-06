@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjectDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Department" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Permissions" Type="String" MaxLength="6" FixedLength="true" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Transactions" Relationship="Self.FK_EmployeeID_Transactions" FromRole="Employees" ToRole="Transactions" />
+  </EntityType>
+  <EntityType Name="Login">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="FailedLogins" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductSKU" />
+    </Key>
+    <Property Name="ProductSKU" Type="String" MaxLength="13" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="ProductName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Transaction">
+    <Key>
+      <PropertyRef Name="TransactionID" />
+    </Key>
+    <Property Name="TransactionID" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TransactionDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Total" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="EmployeeID" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Employee" Relationship="Self.FK_EmployeeID_Transactions" FromRole="Transactions" ToRole="Employees" />
+  </EntityType>
+  <Association Name="FK_EmployeeID_Transactions">
+    <End Role="Employees" Type="Self.Employee" Multiplicity="1" />
+    <End Role="Transactions" Type="Self.Transaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="EmployeeID" />
+      </Principal>
+      <Dependent Role="Transactions">
+        <PropertyRef Name="EmployeeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ProjectDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="Logins" EntityType="Self.Login" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <EntitySet Name="Transactions" EntityType="Self.Transaction" />
+    <AssociationSet Name="FK_EmployeeID_Transactions" Association="Self.FK_EmployeeID_Transactions">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="Transactions" EntitySet="Transactions" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

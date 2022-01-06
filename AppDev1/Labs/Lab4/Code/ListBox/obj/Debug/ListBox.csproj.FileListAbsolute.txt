@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\ListBox\bin\Debug\ListBox.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\ListBox\bin\Debug\ListBox.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\ListBox\obj\Debug\ListBox.ListBoxTestForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\ListBox\obj\Debug\ListBox.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\ListBox\obj\Debug\ListBox.pdb

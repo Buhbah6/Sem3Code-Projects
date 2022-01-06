@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c9945b1-7fa9-4d4c-adfa-09e365122f09": {
+      "ProjectGuid": "9c9945b1-7fa9-4d4c-adfa-09e365122f09",
+      "DisplayName": "MultipleButtons",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

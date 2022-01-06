@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23f831d0-de99-4253-8894-fe07b384140b": {
+      "ProjectGuid": "23f831d0-de99-4253-8894-fe07b384140b",
+      "DisplayName": "LINQToFileDirectory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

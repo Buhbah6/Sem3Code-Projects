@@ -1,0 +1,14 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\bin\Debug\netcoreapp3.1\Lab2PT2.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\bin\Debug\netcoreapp3.1\Lab2PT2.deps.json
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\bin\Debug\netcoreapp3.1\Lab2PT2.runtimeconfig.json
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\bin\Debug\netcoreapp3.1\Lab2PT2.runtimeconfig.dev.json
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\bin\Debug\netcoreapp3.1\Lab2PT2.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\bin\Debug\netcoreapp3.1\Lab2PT2.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\obj\Debug\netcoreapp3.1\Lab2PT2.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\obj\Debug\netcoreapp3.1\Lab2PT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\obj\Debug\netcoreapp3.1\Lab2PT2.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\obj\Debug\netcoreapp3.1\Lab2PT2.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\obj\Debug\netcoreapp3.1\Lab2PT2.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\obj\Debug\netcoreapp3.1\Lab2PT2.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\obj\Debug\netcoreapp3.1\Lab2PT2.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT2\obj\Debug\netcoreapp3.1\Lab2PT2.genruntimeconfig.cache

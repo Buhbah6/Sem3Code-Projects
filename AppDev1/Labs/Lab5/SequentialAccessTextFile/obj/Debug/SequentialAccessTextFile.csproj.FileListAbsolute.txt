@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\SequentialAccessTextFile\obj\Debug\SequentialAccessTextFile.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\SequentialAccessTextFile\obj\Debug\SequentialAccessTextFile.BankUIForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\SequentialAccessTextFile\obj\Debug\SequentialAccessTextFile.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\SequentialAccessTextFile\obj\Debug\SequentialAccessTextFile.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\SequentialAccessTextFile\obj\Debug\SequentialAccessTextFile.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\SequentialAccessTextFile\bin\Debug\SequentialAccessTextFile.dll.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\SequentialAccessTextFile\bin\Debug\SequentialAccessTextFile.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\SequentialAccessTextFile\bin\Debug\SequentialAccessTextFile.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\SequentialAccessTextFile\obj\Debug\SequentialAccessTextFile.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\SequentialAccessTextFile\obj\Debug\SequentialAccessTextFile.pdb

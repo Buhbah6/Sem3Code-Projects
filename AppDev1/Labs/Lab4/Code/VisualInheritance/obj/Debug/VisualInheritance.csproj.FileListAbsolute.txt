@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\VisualInheritance\obj\Debug\VisualInheritance.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\VisualInheritance\obj\Debug\VisualInheritance.VisualInheritanceBaseForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\VisualInheritance\obj\Debug\VisualInheritance.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\VisualInheritance\obj\Debug\VisualInheritance.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\VisualInheritance\obj\Debug\VisualInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\VisualInheritance\bin\Debug\VisualInheritance.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\VisualInheritance\bin\Debug\VisualInheritance.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\VisualInheritance\bin\Debug\VisualInheritance.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\VisualInheritance\obj\Debug\VisualInheritance.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\VisualInheritance\obj\Debug\VisualInheritance.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\VisualInheritance\obj\Debug\VisualInheritance.VisualInheritanceTestForm.resources

@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MultipleButtons\bin\Debug\MultipleButtons.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MultipleButtons\bin\Debug\MultipleButtons.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MultipleButtons\bin\Debug\MultipleButtons.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MultipleButtons\obj\Debug\MultipleButtons.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MultipleButtons\obj\Debug\MultipleButtons.Form1.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MultipleButtons\obj\Debug\MultipleButtons.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MultipleButtons\obj\Debug\MultipleButtons.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MultipleButtons\obj\Debug\MultipleButtons.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MultipleButtons\obj\Debug\MultipleButtons.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MultipleButtons\obj\Debug\MultipleButtons.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MultipleButtons\obj\Debug\MultipleButtons.csproj.SuggestedBindingRedirects.cache

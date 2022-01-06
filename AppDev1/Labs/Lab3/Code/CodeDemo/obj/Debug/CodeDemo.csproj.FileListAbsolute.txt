@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CodeDemo\bin\Debug\CodeDemo.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CodeDemo\bin\Debug\CodeDemo.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CodeDemo\bin\Debug\CodeDemo.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CodeDemo\obj\Debug\CodeDemo.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CodeDemo\obj\Debug\CodeDemo.Form1.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CodeDemo\obj\Debug\CodeDemo.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CodeDemo\obj\Debug\CodeDemo.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CodeDemo\obj\Debug\CodeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CodeDemo\obj\Debug\CodeDemo.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CodeDemo\obj\Debug\CodeDemo.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CodeDemo\obj\Debug\CodeDemo.csproj.SuggestedBindingRedirects.cache

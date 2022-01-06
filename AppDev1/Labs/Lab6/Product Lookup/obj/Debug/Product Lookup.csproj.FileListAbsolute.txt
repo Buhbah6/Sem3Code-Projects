@@ -1,0 +1,13 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\bin\Debug\ProductDB.mdf
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\bin\Debug\ProductDB_log.ldf
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\bin\Debug\Product Lookup.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\bin\Debug\Product Lookup.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\bin\Debug\Product Lookup.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\obj\Debug\Product Lookup.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\obj\Debug\Product Lookup.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\obj\Debug\Product_Lookup.Form1.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\obj\Debug\Product_Lookup.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\obj\Debug\Product Lookup.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\obj\Debug\Product Lookup.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\obj\Debug\Product Lookup.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\Product Lookup\obj\Debug\Product Lookup.pdb

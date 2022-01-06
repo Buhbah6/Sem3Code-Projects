@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\PictureBoxTest\bin\Debug\PictureBoxTest.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\PictureBoxTest\bin\Debug\PictureBoxTest.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\PictureBoxTest\bin\Debug\PictureBoxTest.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\PictureBoxTest\obj\Debug\PictureBoxTest.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\PictureBoxTest\obj\Debug\PictureBoxTest.PictureBoxTestForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\PictureBoxTest\obj\Debug\PictureBoxTest.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\PictureBoxTest\obj\Debug\PictureBoxTest.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\PictureBoxTest\obj\Debug\PictureBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\PictureBoxTest\obj\Debug\PictureBoxTest.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\PictureBoxTest\obj\Debug\PictureBoxTest.pdb

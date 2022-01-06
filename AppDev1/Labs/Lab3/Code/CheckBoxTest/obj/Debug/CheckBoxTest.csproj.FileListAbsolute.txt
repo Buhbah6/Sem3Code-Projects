@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CheckBoxTest\bin\Debug\CheckBoxTest.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CheckBoxTest\bin\Debug\CheckBoxTest.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CheckBoxTest\bin\Debug\CheckBoxTest.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CheckBoxTest\obj\Debug\CheckBoxTest.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CheckBoxTest\obj\Debug\CheckBoxTest.CheckBoxTestForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CheckBoxTest\obj\Debug\CheckBoxTest.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CheckBoxTest\obj\Debug\CheckBoxTest.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CheckBoxTest\obj\Debug\CheckBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CheckBoxTest\obj\Debug\CheckBoxTest.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CheckBoxTest\obj\Debug\CheckBoxTest.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\CheckBoxTest\obj\Debug\CheckBoxTest.csproj.SuggestedBindingRedirects.cache

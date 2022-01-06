@@ -1,0 +1,15 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\bin\Debug\CreditInquiry.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\bin\Debug\CreditInquiry.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\bin\Debug\CreditInquiry.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\bin\Debug\SequentialAccessTextFile.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\bin\Debug\SequentialAccessTextFile.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\bin\Debug\SequentialAccessTextFile.dll.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\obj\Debug\CreditInquiry.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\obj\Debug\CreditInquiry.CreditInquiryForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\obj\Debug\CreditInquiry.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\obj\Debug\CreditInquiry.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\obj\Debug\CreditInquiry.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\obj\Debug\CreditInquiry.csproj.CopyComplete
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\obj\Debug\CreditInquiry.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\obj\Debug\CreditInquiry.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q3\CreditInquiry\obj\Debug\CreditInquiry.csproj.SuggestedBindingRedirects.cache

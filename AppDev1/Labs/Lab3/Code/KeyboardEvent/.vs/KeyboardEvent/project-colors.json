@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09b06c77-46b3-4e62-a0b1-72eedfbd9200": {
+      "ProjectGuid": "09b06c77-46b3-4e62-a0b1-72eedfbd9200",
+      "DisplayName": "KeyboardEvent",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

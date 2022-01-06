@@ -1,0 +1,7 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS02\NadeauAnthonyAssignment2\AS02\obj\Debug\AS02.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS02\NadeauAnthonyAssignment2\AS02\obj\Debug\AS02.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS02\NadeauAnthonyAssignment2\AS02\bin\Debug\AS02.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS02\NadeauAnthonyAssignment2\AS02\bin\Debug\AS02.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS02\NadeauAnthonyAssignment2\AS02\bin\Debug\AS02.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS02\NadeauAnthonyAssignment2\AS02\obj\Debug\AS02.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\AS02\NadeauAnthonyAssignment2\AS02\obj\Debug\AS02.pdb

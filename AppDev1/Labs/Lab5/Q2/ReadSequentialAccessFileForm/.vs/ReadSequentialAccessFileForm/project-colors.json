@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cbf20206-2c48-4b0b-a64b-40d64a979cc8": {
+      "ProjectGuid": "cbf20206-2c48-4b0b-a64b-40d64a979cc8",
+      "DisplayName": "ReadSequentialAccessFileForm",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

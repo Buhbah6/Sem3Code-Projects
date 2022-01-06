@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{581F3A12-0B4A-4A0C-B63D-A1D5ECEEF4AC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GSEP</RootNamespace>
+    <AssemblyName>GSEP</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePasswordForm.Designer.cs">
+      <DependentUpon>ChangePasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <DependentUpon>ProjectModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeesDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EmployeesDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <DependentUpon>ProjectModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ManageUsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageUsersForm.Designer.cs">
+      <DependentUpon>ManageUsersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POSForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="POSForm.Designer.cs">
+      <DependentUpon>POSForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product.cs">
+      <DependentUpon>ProjectModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProductsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProjectModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProjectModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProjectModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction.cs">
+      <DependentUpon>ProjectModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TransactionsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TransactionsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ViewProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewProducts.Designer.cs">
+      <DependentUpon>ViewProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenuForm.Designer.cs">
+      <DependentUpon>MainMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateUserForm.Designer.cs">
+      <DependentUpon>CreateUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewTransactionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewTransactionsForm.Designer.cs">
+      <DependentUpon>ViewTransactionsForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChangePasswordForm.resx">
+      <DependentUpon>ChangePasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewProducts.resx">
+      <DependentUpon>ViewProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageUsersForm.resx">
+      <DependentUpon>ManageUsersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="POSForm.resx">
+      <DependentUpon>POSForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenuForm.resx">
+      <DependentUpon>MainMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateUserForm.resx">
+      <DependentUpon>CreateUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ViewTransactionsForm.resx">
+      <DependentUpon>ViewTransactionsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="EmployeesDataSet1.xsc">
+      <DependentUpon>EmployeesDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="EmployeesDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EmployeesDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EmployeesDataSet1.xss">
+      <DependentUpon>EmployeesDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <EntityDeploy Include="ProjectModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ProjectModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="ProductsDataSet.xsc">
+      <DependentUpon>ProductsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProductsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProductsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProductsDataSet.xss">
+      <DependentUpon>ProductsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProjectModel.edmx.diagram">
+      <DependentUpon>ProjectModel.edmx</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TransactionsDataSet.xsc">
+      <DependentUpon>TransactionsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TransactionsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TransactionsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TransactionsDataSet.xss">
+      <DependentUpon>TransactionsDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ProjectDB.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ProjectDB_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>ProjectDB.mdf</DependentUpon>
+    </Content>
+    <Content Include="ProjectModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProjectModel.edmx</DependentUpon>
+      <LastGenOutput>ProjectModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="ProjectModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProjectModel.edmx</DependentUpon>
+      <LastGenOutput>ProjectModel.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

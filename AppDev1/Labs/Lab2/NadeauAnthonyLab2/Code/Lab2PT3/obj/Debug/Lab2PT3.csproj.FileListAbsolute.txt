@@ -1,0 +1,7 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT3\bin\Debug\Lab2PT3.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT3\bin\Debug\Lab2PT3.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT3\bin\Debug\Lab2PT3.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT3\obj\Debug\Lab2PT3.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT3\obj\Debug\Lab2PT3.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT3\obj\Debug\Lab2PT3.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab2\NadeauAnthonyLab2\Code\Lab2PT3\obj\Debug\Lab2PT3.pdb

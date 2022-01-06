@@ -1,0 +1,47 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/Anthony/Documents/NetBeansProjects/Assignment1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Anthony/Documents/NetBeansProjects/Assignment1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Assignment1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Assignment1 1.0-SNAPSHOT API'
+DataStructure
+'C:/Users/Anthony/Documents/NetBeansProjects/Assignment1/src/main/java/DataStructure/MyList.java'
+'C:/Users/Anthony/Documents/NetBeansProjects/Assignment1/src/main/java/DataStructure/MySet.java'
+'C:/Users/Anthony/Documents/NetBeansProjects/Assignment1/src/main/java/DataStructure/Node.java'
+'C:/Users/Anthony/Documents/NetBeansProjects/Assignment1/src/main/java/DataStructure/UsingMySet.java'
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\src\main\java = 1634069841380
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\allclasses-index.html = 1634354141975
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\allpackages-index.html = 1634354141977
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\element-list = 1634354141914
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\help-doc.html = 1634354142004
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\index-all.html = 1634354141998
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\index.html = 1634354142000
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\jquery-ui.overrides.css = 1634354142201
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\member-search-index.js = 1634354141984
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\module-search-index.js = 1634354141979
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\overview-tree.html = 1634354141958
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\package-search-index.js = 1634354141981
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\script.js = 1634354142028
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\search.js = 1634354142030
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\stylesheet.css = 1634354142016
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\tag-search-index.js = 1634354141985
+C:\Users\Anthony\Documents\NetBeansProjects\Assignment1\target\site\apidocs\type-search-index.js = 1634354141982

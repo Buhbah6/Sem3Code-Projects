@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\RadioButton\obj\Debug\RadioButton.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\RadioButton\obj\Debug\RadioButton.RadioButtonsTestForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\RadioButton\obj\Debug\RadioButton.pdb

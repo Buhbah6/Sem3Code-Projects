@@ -1,0 +1,5 @@
+135,Anthony,Nadeau,-18.65
+245,Yves,Nadeau,689.34
+355,Kelly,Majore,865.45
+465,Guy,Nadeau,325.85
+575,Diane,Lefevre,0.00

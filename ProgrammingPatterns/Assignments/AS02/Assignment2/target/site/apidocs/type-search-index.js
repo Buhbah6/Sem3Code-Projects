@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Q1","l":"Client"},{"p":"Q1","l":"Data"},{"p":"Q3","l":"Geneology"},{"p":"Q1","l":"Key"},{"p":"Q1","l":"MappingClients"},{"p":"Q2","l":"MostOccurrences"},{"p":"Q3","l":"TestGeneology"}];updateSearchResults();

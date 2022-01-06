@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q6\FileTest\bin\Debug\FileTest.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q6\FileTest\bin\Debug\FileTest.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q6\FileTest\bin\Debug\FileTest.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q6\FileTest\obj\Debug\FileTest.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q6\FileTest\obj\Debug\FileTest.FileTestForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q6\FileTest\obj\Debug\FileTest.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q6\FileTest\obj\Debug\FileTest.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q6\FileTest\obj\Debug\FileTest.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q6\FileTest\obj\Debug\FileTest.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q6\FileTest\obj\Debug\FileTest.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q6\FileTest\obj\Debug\FileTest.csproj.SuggestedBindingRedirects.cache

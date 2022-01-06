@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\LabelTextButtonTestForm\bin\Debug\LabelTextButtonTestForm.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\LabelTextButtonTestForm\bin\Debug\LabelTextButtonTestForm.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\LabelTextButtonTestForm\bin\Debug\LabelTextButtonTestForm.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\LabelTextButtonTestForm\obj\Debug\LabelTextButtonTestForm.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\LabelTextButtonTestForm\obj\Debug\LabelTextButtonTestForm.LabelTextBoxButton.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\LabelTextButtonTestForm\obj\Debug\LabelTextButtonTestForm.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\LabelTextButtonTestForm\obj\Debug\LabelTextButtonTestForm.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\LabelTextButtonTestForm\obj\Debug\LabelTextButtonTestForm.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\LabelTextButtonTestForm\obj\Debug\LabelTextButtonTestForm.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\LabelTextButtonTestForm\obj\Debug\LabelTextButtonTestForm.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\LabelTextButtonTestForm\obj\Debug\LabelTextButtonTestForm.csproj.SuggestedBindingRedirects.cache

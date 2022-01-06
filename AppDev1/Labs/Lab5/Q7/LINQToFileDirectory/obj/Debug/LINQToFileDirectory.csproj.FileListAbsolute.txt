@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q7\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q7\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.LINQToFileDirectoryForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q7\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q7\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q7\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q7\LINQToFileDirectory\bin\Debug\LINQToFileDirectory.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q7\LINQToFileDirectory\bin\Debug\LINQToFileDirectory.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q7\LINQToFileDirectory\bin\Debug\LINQToFileDirectory.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q7\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q7\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q7\LINQToFileDirectory\obj\Debug\LINQToFileDirectory.csproj.SuggestedBindingRedirects.cache

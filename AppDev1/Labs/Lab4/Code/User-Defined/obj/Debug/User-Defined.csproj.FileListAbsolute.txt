@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\User-Defined\obj\Debug\User-Defined.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\User-Defined\obj\Debug\User_Defined.ClockUserControl.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\User-Defined\obj\Debug\User_Defined.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\User-Defined\obj\Debug\User-Defined.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\User-Defined\obj\Debug\User-Defined.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\User-Defined\bin\Debug\User-Defined.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\User-Defined\bin\Debug\User-Defined.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\User-Defined\bin\Debug\User-Defined.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\User-Defined\obj\Debug\User_Defined.clockForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\User-Defined\obj\Debug\User-Defined.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\User-Defined\obj\Debug\User-Defined.pdb

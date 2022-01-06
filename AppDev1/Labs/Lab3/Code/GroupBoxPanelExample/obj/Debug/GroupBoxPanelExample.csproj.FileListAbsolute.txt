@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.GroupBoxPanelForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.csproj.SuggestedBindingRedirects.cache

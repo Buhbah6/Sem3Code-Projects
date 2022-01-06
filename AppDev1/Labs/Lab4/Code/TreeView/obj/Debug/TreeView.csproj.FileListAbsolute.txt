@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\TreeView\obj\Debug\TreeView.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\TreeView\obj\Debug\TreeView.TreeViewDirectoryStructureForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\TreeView\bin\Debug\TreeView.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\TreeView\bin\Debug\TreeView.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\TreeView\bin\Debug\TreeView.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\TreeView\obj\Debug\TreeView.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\TreeView\obj\Debug\TreeView.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\TreeView\obj\Debug\TreeView.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\KeyboardEvent\bin\Debug\KeyboardEvent.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\KeyboardEvent\bin\Debug\KeyboardEvent.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\KeyboardEvent\bin\Debug\KeyboardEvent.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\KeyboardEvent\obj\Debug\KeyboardEvent.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\KeyboardEvent\obj\Debug\KeyboardEvent.KeyDemo.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\KeyboardEvent\obj\Debug\KeyboardEvent.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\KeyboardEvent\obj\Debug\KeyboardEvent.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\KeyboardEvent\obj\Debug\KeyboardEvent.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\KeyboardEvent\obj\Debug\KeyboardEvent.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\KeyboardEvent\obj\Debug\KeyboardEvent.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\KeyboardEvent\obj\Debug\KeyboardEvent.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,10 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\LinkLabel\bin\Debug\LinkLabel.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\LinkLabel\bin\Debug\LinkLabel.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\LinkLabel\bin\Debug\LinkLabel.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\LinkLabel\obj\Debug\LinkLabel.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\LinkLabel\obj\Debug\LinkLabel.LinkLabelTestForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\LinkLabel\obj\Debug\LinkLabel.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\LinkLabel\obj\Debug\LinkLabel.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\LinkLabel\obj\Debug\LinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\LinkLabel\obj\Debug\LinkLabel.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\LinkLabel\obj\Debug\LinkLabel.pdb

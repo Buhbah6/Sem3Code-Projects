@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\SimpleExampleForm\bin\Debug\SimpleExampleForm.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\SimpleExampleForm\bin\Debug\SimpleExampleForm.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\SimpleExampleForm\bin\Debug\SimpleExampleForm.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\SimpleExampleForm\obj\Debug\SimpleExampleForm.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\SimpleExampleForm\obj\Debug\SimpleExampleForm.SimpleEventExample.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\SimpleExampleForm\obj\Debug\SimpleExampleForm.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\SimpleExampleForm\obj\Debug\SimpleExampleForm.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\SimpleExampleForm\obj\Debug\SimpleExampleForm.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\SimpleExampleForm\obj\Debug\SimpleExampleForm.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\SimpleExampleForm\obj\Debug\SimpleExampleForm.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\SimpleExampleForm\obj\Debug\SimpleExampleForm.csproj.SuggestedBindingRedirects.cache

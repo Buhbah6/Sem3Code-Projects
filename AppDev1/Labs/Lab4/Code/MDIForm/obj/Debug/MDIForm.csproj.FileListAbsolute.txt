@@ -1,0 +1,12 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\bin\Debug\MDIForm.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\bin\Debug\MDIForm.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\bin\Debug\MDIForm.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\obj\Debug\MDIForm.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\obj\Debug\MDIForm.ChildForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\obj\Debug\MDIForm.UsingMDIForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\obj\Debug\MDIForm.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\obj\Debug\MDIForm.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\obj\Debug\MDIForm.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\obj\Debug\MDIForm.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\obj\Debug\MDIForm.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab4\Code\MDIForm\obj\Debug\MDIForm.csproj.SuggestedBindingRedirects.cache

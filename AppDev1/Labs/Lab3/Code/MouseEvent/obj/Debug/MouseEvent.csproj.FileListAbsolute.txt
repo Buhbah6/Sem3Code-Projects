@@ -1,0 +1,11 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MouseEvent\obj\Debug\MouseEvent.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MouseEvent\obj\Debug\MouseEvent.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MouseEvent\obj\Debug\MouseEvent.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MouseEvent\obj\Debug\MouseEvent.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MouseEvent\bin\Debug\MouseEvent.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MouseEvent\bin\Debug\MouseEvent.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MouseEvent\bin\Debug\MouseEvent.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MouseEvent\obj\Debug\MouseEvent.PainterForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MouseEvent\obj\Debug\MouseEvent.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MouseEvent\obj\Debug\MouseEvent.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab3\Code\MouseEvent\obj\Debug\MouseEvent.csproj.SuggestedBindingRedirects.cache

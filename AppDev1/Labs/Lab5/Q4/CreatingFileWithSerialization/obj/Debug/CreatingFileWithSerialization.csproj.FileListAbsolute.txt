@@ -1,0 +1,14 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\obj\Debug\CreatingFileWithSerialization.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\obj\Debug\CreatingFileWithSerialization.CreateFileForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\obj\Debug\CreatingFileWithSerialization.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\obj\Debug\CreatingFileWithSerialization.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\obj\Debug\CreatingFileWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\bin\Debug\CreatingFileWithSerialization.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\bin\Debug\CreatingFileWithSerialization.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\bin\Debug\CreatingFileWithSerialization.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\bin\Debug\SequentialAccessTextFile.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\bin\Debug\SequentialAccessTextFile.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\obj\Debug\CreatingFileWithSerialization.csproj.CopyComplete
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\obj\Debug\CreatingFileWithSerialization.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\obj\Debug\CreatingFileWithSerialization.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab5\Q4\CreatingFileWithSerialization\obj\Debug\CreatingFileWithSerialization.csproj.SuggestedBindingRedirects.cache

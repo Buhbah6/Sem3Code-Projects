@@ -1,0 +1,13 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\bin\Debug\BookDatabase.mdf
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\bin\Debug\BookDatabase_log.ldf
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\bin\Debug\LibraryBooks.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\bin\Debug\LibraryBooks.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\bin\Debug\LibraryBooks.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\obj\Debug\LibraryBooks.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\obj\Debug\LibraryBooks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\obj\Debug\LibraryBooks.Form1.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\obj\Debug\LibraryBooks.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\obj\Debug\LibraryBooks.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\obj\Debug\LibraryBooks.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\obj\Debug\LibraryBooks.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\Lab6\LibraryBooks\obj\Debug\LibraryBooks.pdb

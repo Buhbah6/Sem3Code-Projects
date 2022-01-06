@@ -1,0 +1,75 @@
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\bin\Debug\GSEP.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\bin\Debug\GSEP.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\bin\Debug\GSEP.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.loginForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\bin\Debug\ProjectDB.mdf
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\bin\Debug\ProjectDB_log.ldf
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\bin\Debug\EntityFramework.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\bin\Debug\EntityFramework.xml
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.csproj.CopyComplete
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.CreateUserForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.MainMenuForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.ChangePasswordForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.ManageUsersForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.ViewTransactionsForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.POSForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\obj\Debug\GSEP.ViewProductsForm.resources
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.csproj.AssemblyReference.cache
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.exe
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.pdb
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\bin\Debug\ProjectDB.mdf
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\bin\Debug\ProjectDB_log.ldf
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\bin\Debug\GSEP.exe.config
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\bin\Debug\GSEP.exe
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\bin\Debug\GSEP.pdb
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\bin\Debug\EntityFramework.dll
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\bin\Debug\EntityFramework.xml
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.ChangePasswordForm.resources
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.ViewProductsForm.resources
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.ManageUsersForm.resources
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.POSForm.resources
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.MainMenuForm.resources
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.CreateUserForm.resources
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.LoginForm.resources
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.Properties.Resources.resources
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.ViewTransactionsForm.resources
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.csproj.GenerateResource.cache
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Downloads\GSEP (1)\GSEP\GSEP\obj\Debug\GSEP.csproj.CopyComplete
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\bin\Debug\ProjectDB.mdf
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\bin\Debug\ProjectDB_log.ldf
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\bin\Debug\GSEP.exe.config
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\bin\Debug\GSEP.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\bin\Debug\GSEP.pdb
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\bin\Debug\EntityFramework.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\bin\Debug\EntityFramework.xml
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.ChangePasswordForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.ViewProductsForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.ManageUsersForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.POSForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.MainMenuForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.CreateUserForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.LoginForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.ViewTransactionsForm.resources
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.csproj.CopyComplete
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.exe
+C:\Users\Anthony\Desktop\Assignments\AppDev\GSEP\GSEP\GSEP\obj\Debug\GSEP.pdb

@@ -1,0 +1,56 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Assignment1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Assignment1 1.0-SNAPSHOT API'
+Part1
+Part2
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java/Part1/Bus.java'
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java/Part1/Driver.java'
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java/Part1/FixedProperty.java'
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java/Part1/House.java'
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java/Part1/Itaxable.java'
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java/Part1/TaxableBus.java'
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java/Part1/TaxableHouse.java'
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java/Part1/Vehicle.java'
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java/Part2/Driver.java'
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java/Part2/Program1And2.java'
+'C:/Users/Anthony/Desktop/Assignments/ProgPat/AS01/Assignment1/src/main/java/Part2/Student.java'
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\src\main\java = 1631149686601
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\allclasses-index.html = 1631328726686
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\allpackages-index.html = 1631328726689
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\element-list = 1631328726565
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\help-doc.html = 1631328726713
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\index-all.html = 1631328726708
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\index.html = 1631328726669
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\jquery-ui.overrides.css = 1631328726752
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\member-search-index.js = 1631328726694
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\module-search-index.js = 1631328726690
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\overview-summary.html = 1631328726710
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\overview-tree.html = 1631328726664
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\package-search-index.js = 1631328726691
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\script.js = 1631328726718
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\search.js = 1631328726724
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\stylesheet.css = 1631328726716
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\tag-search-index.js = 1631328726696
+C:\Users\Anthony\Desktop\Assignments\ProgPat\AS01\Assignment1\target\site\apidocs\type-search-index.js = 1631328726693

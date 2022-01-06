@@ -1,0 +1,7 @@
+C:\Users\Anthony\source\repos\CompareNames\CompareNames\bin\Debug\CompareNames.exe.config
+C:\Users\Anthony\source\repos\CompareNames\CompareNames\bin\Debug\CompareNames.exe
+C:\Users\Anthony\source\repos\CompareNames\CompareNames\bin\Debug\CompareNames.pdb
+C:\Users\Anthony\source\repos\CompareNames\CompareNames\obj\Debug\CompareNames.csproj.AssemblyReference.cache
+C:\Users\Anthony\source\repos\CompareNames\CompareNames\obj\Debug\CompareNames.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\CompareNames\CompareNames\obj\Debug\CompareNames.exe
+C:\Users\Anthony\source\repos\CompareNames\CompareNames\obj\Debug\CompareNames.pdb

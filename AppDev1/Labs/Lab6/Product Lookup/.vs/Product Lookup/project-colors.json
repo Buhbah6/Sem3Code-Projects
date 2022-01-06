@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f02222bd-f905-46bf-8d4f-194f2b29315c": {
+      "ProjectGuid": "f02222bd-f905-46bf-8d4f-194f2b29315c",
+      "DisplayName": "Product Lookup",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
