@@ -1,0 +1,134 @@
+THIS IS A GUIDE TO INSTALLING ALL THE SOFTWARE IN THIS PROJECT.
+
+To begin, download the RetroPie Image for Raspberry Pi 4/400 on a computer you have access to.
+Here is the link: https://retropie.org.uk/download/
+
+Then using an image-writing software such as Rufus or Etcher, flash the image onto the microSD card of your Raspberry Pi.
+I used Etcher by balena which can be found at the following link: https://www.balena.io/etcher/
+
+After writing the image onto your microSD card, you can put it in it's respective slot on the Raspberry Pi 4, and boot the Pi. You should be greeted by the controller
+mapping tool. I used a gamecube controller designed for use on the Nintendo Switch, which can be found at this link: 
+https://www.powera.com/p/nintendo/nintendo-switch/controllers/wired/wired-controller-for-nintendo-switch-gamecube-style-black-1507843-01/
+
+But I suggest using a controller made by the company 8bitdo. This is their website: https://www.8bitdo.com/sn30-pro-g-classic-or-sn30-pro-sn/
+Of course any controller with a usb cable or a bluetooth connection should work, however I haven't tried connecting a bluetooth controller, as mine is wired.
+
+Next you should encounter the retropie configuration menu. I did not change anything in the configuration aside from the display settings which can be found through
+the following options: Raspi-Config > Display Options > Resolution > CEA Mode 16 1920x1080 60Hz 16:9. And thus concludes the base configuration of retropie
+
+Once the distro has been setup, format a USB drive as FAT32, and then create a file on it called "retropie" spelled exactly like that. Then plug your usb into the raspberry pi
+and the OS will automatically create a file structure for all the supported emulators. Now you can return to your other computer and select the video game ROMS you would 
+like to add to your system. In the retropie folder on the USB you should see a "roms"  file that contains files for all the already supported emulators that you can just drag and 
+drop games into.
+
+For each ROM that you want to add, simply download it and place it in the folder for it's respective emulator (e.g. N64 games go in the N64 folder)
+
+Note: Downloading copyrighted ROMs is not legal. Do so at your own risk. All ROMs listed below are from legal sources to download and play.
+HERE IS THE LIST OF ROMS I INSTALLED AS WELL AS THEIR RESPECTIVE LINKS:
+
+- Pong RAM
+https://pdroms.de/files/sega-genesis-megadrive-smd-md/pong-ram-mini-game-compo-2009
+
+- Ultimate Tetris
+https://www.zophar.net/pdroms/genesis/ultimate-tetris.html
+
+- Crazy Driver
+https://pdroms.de/files/sega-genesis-megadrive-smd-md/crazy-driver
+
+- D-Pad Hero 2
+http://www.nesworld.com/article.php?system=nes&data=neshomebrew
+
+- Pitfall: The Unofficial Adventure
+http://www.nesworld.com/article.php?system=nes&data=neshomebrew
+
+- Agoria - Ode To Fate
+https://pdroms.de/files/nintendo-gameboyadvance-gba/agoria-ode-to-fate
+
+- Samuel
+https://pdroms.de/files/nintendo-gameboy-gb-gameboycolor-gbc/samuel
+
+THE FOLLOWING SECTION IS CONTAINED IN LINES OF ***, IF YOU ALREADY KNOW HOW TO SET UP A GIT REPO WITH SSH ON RETROPIE, YOU CAN SKIP THIS PART.
+************************************************************************************************************************************************
+Below is the list of commands I used to set up git on my RetroPie device with ssh. This is important so the python script can work correctly.
+To access the terminal in RetroPie, press alt + f4 and the terminal will pop up. In order to return to the emulation station, type "emulationstation" in the terminal.
+Any lines starting with '$' are terminal commands, and those starting with '##' are comments that explain tasks needed to be done outside the terminal.
+
+Start by installing the following packages (they may already be installed with the image)
+
+$ sudo apt install git
+$ git config --global user.email "[your email]"
+$ git config --global user.name "[your username]"
+$ sudo apt install openssh-server
+$ sudo apt install python3
+
+Next, set up your SSH key pair
+
+$ ssh keygen -b 2048 -t rsa
+$ sudo touch publicKey.txt
+$ sudo chmod 777 publicKey.txt
+$ cat /home/pi/.ssh/id_rsa.pub >> publicKey.txt
+
+Since there is no accessible browser on RetroPie, I copied the public key text file to a USB and used it on my computer.
+
+## plug a USB in RPi
+$ cp publicKey.txt /media/usb
+## plug USB in computer and add SSH key from text file onto github account
+## Make a new Repo for your files
+
+Then, clone your repository onto your RPi (your user profiles should be the exact same)
+
+$ cd pi
+$ git clone [ssh for your repo]
+$ cd [repo name]
+
+Create your file that will store your playtimes
+$ touch recordedTimes.txt
+$ nano recordedTimes.txt
+## Write "Start" at the beginning of the file, then save and quit
+
+Finally add the file, commit, and push to the repository
+
+$ git add recordedTimes.txt
+$ git commit -m "First commit from RetroPie"
+$ git push
+
+Now you should be able to manipulate your repository directly from the Raspberry Pi
+************************************************************************************************************************************************
+
+Next, in my repository you should find 3 script files. In order to set up the automated playtime calculations, you'll need to download all 3
+scripts and store them on a USB stick. This will allow you to access them on the RPi for configuration. 
+
+**NOTE: You will need to modify the "PATH_OF_REPO" variable in the "commit.py" script file to be the path to your currently setup ssh-enabled repository.**
+
+Connect your usb to the RPi and open the command terminal with alt + f4. Then input the following commands:
+
+$ cp /media/usb/boot.sh /home/pi
+$ cp /media/usb/shutdown.sh /home/pi
+$ cp /media/usb/commit.py /home/pi
+
+These commands will copy the files from the usb to the Retropie System
+
+Next, you'll want to enable a crontab that runs the boot script.
+you can do this by entering the following command:
+
+$ crontab -l
+## select your text editor of choice, then add these lines to the end of the file
+
+#crontab -e
+@reboot  /home/pi/boot.sh
+
+## Then save the file and your boot script should be fully functional.
+
+The next step is to setup the script for shutdown, which can be done simply by entering these commands:
+
+$ cp shutdown.sh /etc/init.d
+$ cp commit.py /etc/init.d
+## The next 2 lines create symlinks for the script in the respective "shutdown" and "reboot" directories
+$ sudo ln -s /etc/init.d/shutdown.sh /etc/rc0.d/k99stop_vm
+$ sudo ln -s /etc/init.d/shutdown.sh /etc/rc6.d/k99stop_vm
+$ sudo chmod +x /etc/init.d/shutdown.sh
+
+And voila! You should have a fully functional playtime checker. It will get the date and time of the boot and of the shutdown, and then will push these variables
+to a text file in the PlayTimes repository that you have made in the previous step. 
+
+Thank you for following this installation procedure, and happy gaming!
